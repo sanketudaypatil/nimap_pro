@@ -21,7 +21,7 @@ function findSecondLargest(a){
     }
     return secondHeighest
 }
-
+// day 2
 
 const res = findSecondLargest(a)
 console.log(res)
